@@ -112,7 +112,7 @@ me.say_hi()
 
 - 🔭 Currently exploring: **LLMs, Generative AI, and Agent-based systems**
 - 🎯 Goal for 2025: **Land my dream data role in the UK**
-- ⚽ Fun fact: **I analyse football stats for fun** (it counts as practice, right?)
+- 🔍 Fun fact: I can spend hours exploring ‘why people behave the way they do’ using data.
 - 💡 Philosophy: **"In God we trust. All others must bring data."** - W. Edwards Deming
 
 ---
@@ -123,7 +123,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yokeshmm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnus210)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokesh21702@example.com)
 
 **📩 Open to opportunities in Data Science, Analytics, and ML Engineering roles in the UK!**
 
