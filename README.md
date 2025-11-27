@@ -135,7 +135,7 @@ me.say_hi()
 
 ### Thanks for visiting! 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=magnus210&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmagnus210&count_bg=%2358A6FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 *"The goal is to turn data into information, and information into insight."* - Carly Fiorina
 
